@@ -1,0 +1,1 @@
+babel fuliye.js --out-file tmp.js --presets C:/Users/samsung/AppData/Roaming/npm/node_modules/babel-preset-react

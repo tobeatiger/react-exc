@@ -1,0 +1,1 @@
+browserify tmp.js | uglifyjs > bundle.js
